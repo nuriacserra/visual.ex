@@ -1,0 +1,5 @@
+C:\Users\Nuria\Documents\AiRi\Mp10\activitat1\activitat1\bin\Debug\activitat1.exe.config
+C:\Users\Nuria\Documents\AiRi\Mp10\activitat1\activitat1\obj\Debug\activitat1.csprojResolveAssemblyReference.cache
+C:\Users\Nuria\Documents\AiRi\Mp10\activitat1\activitat1\obj\Debug\activitat1.Form1.resources
+C:\Users\Nuria\Documents\AiRi\Mp10\activitat1\activitat1\obj\Debug\activitat1.Properties.Resources.resources
+C:\Users\Nuria\Documents\AiRi\Mp10\activitat1\activitat1\obj\Debug\activitat1.csproj.GenerateResource.Cache
